@@ -51,7 +51,7 @@ defmodule ElixirFeedParser.XmlNode do
 
   def xpath(nil, _path), do: nil
   def xpath(node, path) do
-    :xmerl_xpath.string(to_char_list(path), node)
+    :xmerl_xpath.string(to_charlist(path), node)
   end
 
   def namespace(nil), do: nil
@@ -65,7 +65,7 @@ defmodule ElixirFeedParser.XmlNode do
       {List.to_string(key), Atom.to_string(value)}
     end)
 
-    Enum.into(result, HashDict.new)
+    Enum.into(result, Map.new)
   end
 
   def element_to_string(node) do
