@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:yt="http://www.youtube.com/xml/schemas/2015">
+  <link href="http://www.youtube.com/feeds/videos.xml?channel_id=UCKrD_GYN3iDpG_uMmADPzJQ" rel="self"/>
+  <id>yt:channel:UCKrD_GYN3iDpG_uMmADPzJQ</id>
+  <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+  <title>Erlang Solutions</title>
+  <link href="https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ" rel="alternate"/>
+  <author>
+    <name>Erlang Solutions</name>
+    <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+  </author>
+  <published>2010-11-25T11:41:01+00:00</published>
+  <entry>
+    <id>yt:video:nUa_aF7dyWk</id>
+    <yt:videoId>nUa_aF7dyWk</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>RefactorErl by Melinda Tóth/ELTE-Soft Nonprofit Ltd</title>
+    <link href="https://www.youtube.com/watch?v=nUa_aF7dyWk" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-26T11:53:32+00:00</published>
+    <updated>2017-09-28T19:48:09+00:00</updated>
+    <media:group>
+      <media:title>RefactorErl by Melinda Tóth/ELTE-Soft Nonprofit Ltd</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/nUa_aF7dyWk?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i3.ytimg.com/vi/nUa_aF7dyWk/hqdefault.jpg" width="480"/>
+      <media:description>Erlang meet-up, 19 September 2017, Klarna, Stockholm</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="7" max="5" min="1"/>
+        <media:statistics views="120"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:_QUVpYXuR80</id>
+    <yt:videoId>_QUVpYXuR80</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Data efficiency on the BEAM by Dmytro Lytovchenko/Erlang Solutions</title>
+    <link href="https://www.youtube.com/watch?v=_QUVpYXuR80" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-26T10:33:59+00:00</published>
+    <updated>2017-09-28T20:09:35+00:00</updated>
+    <media:group>
+      <media:title>Data efficiency on the BEAM by Dmytro Lytovchenko/Erlang Solutions</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/_QUVpYXuR80?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i4.ytimg.com/vi/_QUVpYXuR80/hqdefault.jpg" width="480"/>
+      <media:description>Erlang meet-up, 19 September 2017, Klarna, Stockholm</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="13" max="5" min="1"/>
+        <media:statistics views="338"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:s1zB1YFobLI</id>
+    <yt:videoId>s1zB1YFobLI</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Python &amp; Erlang -  a match made in heaven by Johan Sommerfeld/s2hc</title>
+    <link href="https://www.youtube.com/watch?v=s1zB1YFobLI" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-26T09:57:19+00:00</published>
+    <updated>2017-09-27T19:53:11+00:00</updated>
+    <media:group>
+      <media:title>Python &amp; Erlang -  a match made in heaven by Johan Sommerfeld/s2hc</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/s1zB1YFobLI?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i4.ytimg.com/vi/s1zB1YFobLI/hqdefault.jpg" width="480"/>
+      <media:description>Erlang meet-up, 19 September 2017, Klarna, Stockholm</media:description>
+      <media:community>
+        <media:starRating average="4.43" count="14" max="5" min="1"/>
+        <media:statistics views="397"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:anGb8ByaZbc</id>
+    <yt:videoId>anGb8ByaZbc</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Steven Blowers,  Krzysztof Wende, Elliott Hilaire, Paul Wilson - Lightning Talks - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=anGb8ByaZbc" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-25T16:49:31+00:00</published>
+    <updated>2017-09-26T09:51:17+00:00</updated>
+    <media:group>
+      <media:title>Steven Blowers,  Krzysztof Wende, Elliott Hilaire, Paul Wilson - Lightning Talks - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/anGb8ByaZbc?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i2.ytimg.com/vi/anGb8ByaZbc/hqdefault.jpg" width="480"/>
+      <media:description>Steven Blowers - Creating a Microsoft SQL Server Adaptor for Ecto 2.0
+
+We were in a position where we needed to dual-write to a Postgres and MS SQL server database. Unable to find an Ecto 2.0 adaptor for MS SQL, we decided to write our own!
+
+Twitter: https://twitter.com/shdblowers
+
+Krzysztof Wende - Writing Type-safe Elixir Code with Elm's Syntax - Elchemy
+
+The purpose of this talk was to make the audience familiar with common fallacies of dynamic typing and a solution to them using a project utilizing Elm-like syntax to produce equivalent Elixir code.
+
+More here: https://github.com/wende/elchemy
+And here: https://hackernoon.com/elmchemy-write-type-safe-elixir-code-with-elms-syntax-part-1-introduction-8968b76d721d
+
+Github: http://www.github.com/wende
+
+Elliott Hilaire - Community Sheep Simulator
+
+Being a sheep is more fun with friends. We tested a sheep simulator made with Elixir.
+
+Twitter: https://twitter.com/elliotthilaire
+
+Paul Wilson - Two Nerves Firmware Releases in One Umbrella Project: What Could Go Wrong?
+
+The Cultivate Biathlon bot used two PI Zeros: one for the Battle Bot and one for the Target. Paul used a single umbrella project for both firmwares, so that common components could be shared.
+
+Twitter: https://twitter.com/paulanthonywils</media:description>
+      <media:community>
+        <media:starRating average="0.00" count="0" max="5" min="1"/>
+        <media:statistics views="78"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:aEyQcZg-Njs</id>
+    <yt:videoId>aEyQcZg-Njs</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Basic Erlang I by Simon Thompson | 1/13 of Erlang Express Course</title>
+    <link href="https://www.youtube.com/watch?v=aEyQcZg-Njs" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-19T18:45:27+00:00</published>
+    <updated>2017-09-29T10:27:34+00:00</updated>
+    <media:group>
+      <media:title>Basic Erlang I by Simon Thompson | 1/13 of Erlang Express Course</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/aEyQcZg-Njs?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i2.ytimg.com/vi/aEyQcZg-Njs/hqdefault.jpg" width="480"/>
+      <media:description/>
+      <media:community>
+        <media:starRating average="5.00" count="23" max="5" min="1"/>
+        <media:statistics views="602"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:R5xTuw7NYg8</id>
+    <yt:videoId>R5xTuw7NYg8</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>HTTP/2 Plug to Phoenix, Cowboy Too - Gary Rennie - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=R5xTuw7NYg8" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-12T12:36:28+00:00</published>
+    <updated>2017-09-24T09:12:27+00:00</updated>
+    <media:group>
+      <media:title>HTTP/2 Plug to Phoenix, Cowboy Too - Gary Rennie - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/R5xTuw7NYg8?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i3.ytimg.com/vi/R5xTuw7NYg8/hqdefault.jpg" width="480"/>
+      <media:description>In this talk, Gary Rennie, a Phoenix Core Team Member, looked at the changes in Cowboy 2 and how we can use it with Plug and Phoenix by using a custom Plug adapter. He then looked at how this can be done using a library and integrating it with Plug. The same technique was then applied to Phoenix, writing a custom handler in a library and then using it with Phoenix. He also explored how HTTP/2 can be used to build a new Phoenix Transport, allowing Phoenix PubSub to work with a bidirectional HTTP/2 channel,  investigate how existing transports work, and what changes are required to implement a custom transport.</media:description>
+      <media:community>
+        <media:starRating average="4.75" count="16" max="5" min="1"/>
+        <media:statistics views="622"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:p4uE-jTB_Uk</id>
+    <yt:videoId>p4uE-jTB_Uk</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>The Feature That No One Knew About in Elixir 1.5 - José Valim - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=p4uE-jTB_Uk" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-08T08:42:35+00:00</published>
+    <updated>2017-09-28T06:03:56+00:00</updated>
+    <media:group>
+      <media:title>The Feature That No One Knew About in Elixir 1.5 - José Valim - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/p4uE-jTB_Uk?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i1.ytimg.com/vi/p4uE-jTB_Uk/hqdefault.jpg" width="480"/>
+      <media:description>José Valim, the creator of Elixir, gives a keynote at Elixir.LDN 2017. In this Keynote, José shows us a hidden feature in the new Elixir 1.5 update and then discusses how this came about. He explains Elixir's relationship with the Erlang Compiler and the BEAM. He also explains how an update in Erlang/OTP 20 was required to make this new feature possible.</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="129" max="5" min="1"/>
+        <media:statistics views="3349"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:v3IMJq4P7ns</id>
+    <yt:videoId>v3IMJq4P7ns</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Empowering mobile-first workers in emerging-markets using messaging | Webinar with Twnel</title>
+    <link href="https://www.youtube.com/watch?v=v3IMJq4P7ns" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-05T11:29:03+00:00</published>
+    <updated>2017-09-27T10:41:14+00:00</updated>
+    <media:group>
+      <media:title>Empowering mobile-first workers in emerging-markets using messaging | Webinar with Twnel</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/v3IMJq4P7ns?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i3.ytimg.com/vi/v3IMJq4P7ns/hqdefault.jpg" width="480"/>
+      <media:description>In this webinar, Carlos Sierra, Founder and CEO at Twnel, will share some insights on developing a new social messaging solution that has revolutionized the way companies and individuals in emerging markets work together.
+
+Smartphone messaging has taken over emerging-markets since the birth of Whatsapp in 2009. Peer-to-peer messaging grown in popularity and created new communication habits for the majority of consumers, especially in Latin America and Africa. Today, Business-to-Consumer messaging is transforming the way companies and individuals are communicating nowadays.
+
+Carlos will share the lessons he learned during Twnel's first 18 months of operation in Latin America, helping businesses use the power of messaging to connect with their networks of individual business partners.
+
+What will you learn?
+- How personal messengers are giving birth to professional messengers
+- Why messaging in emerging markets is drastically different
+- How MongooseIM helps Twnel focus on what's important
+
+WEBINAR LIVE DATE: Thursday 31 August 2017 | 16:00 BST / 11:00 EDT / 08:00 PDT
+
+
+-----------------------------------------------
+
+SPEAKER CONTACT DETAILS
+
+CARLOS SIERRA - a mobile tech entrepreneur with more than 15 years of experience in the mobile internet industry. He is also the founder and CEO of Twnel, and our guest speaker.
+- Twitter: https://twitter.com/csierra
+
+
+-----------------------------------------------
+
+COMPANY CONTACT DETAILS
+
+ERLANG SOLUTIONS
+- Website: https://www.erlang-solutions.com
+- Twitter: https://www.twitter.com/ErlangSolutions
+- LinkedIn: https://www.linkedin.com/company/207788
+- GitHub: https://github.com/esl
+- Slideshare: https://www.slideshare.net/ErlangSolutionsLtd</media:description>
+      <media:community>
+        <media:starRating average="4.56" count="9" max="5" min="1"/>
+        <media:statistics views="325"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:5EDD1oZ23tY</id>
+    <yt:videoId>5EDD1oZ23tY</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Stepping into a New Era: Injecting Elixir in an Existing System - Andrea Leopardi - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=5EDD1oZ23tY" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-01T13:16:38+00:00</published>
+    <updated>2017-09-17T20:38:30+00:00</updated>
+    <media:group>
+      <media:title>Stepping into a New Era: Injecting Elixir in an Existing System - Andrea Leopardi - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/5EDD1oZ23tY?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i2.ytimg.com/vi/5EDD1oZ23tY/hqdefault.jpg" width="480"/>
+      <media:description>Many developers and companies are interested in Elixir and wish to adopt it. A good part of these companies already have systems in place and rewriting them from scratch in Elixir is not feasible. At Football Addicts, Andrea and his team were in this exact situation: what they did was inject Elixir one step at a time, writing small services in it that would run alongside the main system and interact with it through higher-level mechanisms (such as RabbitMQ). This worked fantastically, in part thanks to Elixir and Erlang being great at interacting with other components. They were able to start using Elixir for increasingly significant parts of the system, already benefitting from its strengths and substantially improving the quality of the whole system and product. In this talk, Andrea talks about the experience they had with introducing Elixir and about tips on how to do the same in attendee's system, the advantages of doing so, and the pitfalls to avoid.</media:description>
+      <media:community>
+        <media:starRating average="4.38" count="13" max="5" min="1"/>
+        <media:statistics views="715"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:yPU6__D1TQs</id>
+    <yt:videoId>yPU6__D1TQs</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Louis Pilfold - The Journey From Ruby to Elixir</title>
+    <link href="https://www.youtube.com/watch?v=yPU6__D1TQs" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-09-01T12:28:32+00:00</published>
+    <updated>2017-09-01T12:52:43+00:00</updated>
+    <media:group>
+      <media:title>Louis Pilfold - The Journey From Ruby to Elixir</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/yPU6__D1TQs?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i2.ytimg.com/vi/yPU6__D1TQs/hqdefault.jpg" width="480"/>
+      <media:description>Louis Pilfold, coming from a Ruby background explains how and why he started using Elixir.</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="2" max="5" min="1"/>
+        <media:statistics views="283"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:T00CdKXbuWc</id>
+    <yt:videoId>T00CdKXbuWc</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Sam Aaron Talks at Code Mesh About His Sonic Pi Music Favourites</title>
+    <link href="https://www.youtube.com/watch?v=T00CdKXbuWc" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-08-31T09:08:52+00:00</published>
+    <updated>2017-08-31T19:16:52+00:00</updated>
+    <media:group>
+      <media:title>Sam Aaron Talks at Code Mesh About His Sonic Pi Music Favourites</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/T00CdKXbuWc?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i1.ytimg.com/vi/T00CdKXbuWc/hqdefault.jpg" width="480"/>
+      <media:description>Sam Aaron talks to Brian Troutwine at Code Mesh 2016 about music done in Sonic Pi he likes. Sam Aaron will be live music coding at Code Mesh 2017 (7-9 November), more details here: http://www.codemesh.io/</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="1" max="5" min="1"/>
+        <media:statistics views="101"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:QJ3tDAdTjPI</id>
+    <yt:videoId>QJ3tDAdTjPI</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Elixir Umbrella - Microservices or Majestic Monolith? - Georgina McFadyen - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=QJ3tDAdTjPI" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-08-30T13:21:29+00:00</published>
+    <updated>2017-09-25T12:26:57+00:00</updated>
+    <media:group>
+      <media:title>Elixir Umbrella - Microservices or Majestic Monolith? - Georgina McFadyen - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/QJ3tDAdTjPI?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i2.ytimg.com/vi/QJ3tDAdTjPI/hqdefault.jpg" width="480"/>
+      <media:description>Elixir Umbrella applications allow you to break down complex systems into smaller sub components. But are these applications a good fit for microservices or do they end up being a more complex monolith? Learn more about them in this talk.
+
+After an introduction to Umbrella applications, Georgina showed us an example project to demonstrate common challenges with Umbrella projects and how to work around them. Different deployment options were explored to show how little change is required to deploy an Umbrella in a distributed manner.</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="24" max="5" min="1"/>
+        <media:statistics views="775"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:AAXtjPiXbWE</id>
+    <yt:videoId>AAXtjPiXbWE</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>Profiling and Tracing for all with Xprof - Péter Gömöri - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=AAXtjPiXbWE" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-08-30T13:21:14+00:00</published>
+    <updated>2017-09-04T15:08:35+00:00</updated>
+    <media:group>
+      <media:title>Profiling and Tracing for all with Xprof - Péter Gömöri - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/AAXtjPiXbWE?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i2.ytimg.com/vi/AAXtjPiXbWE/hqdefault.jpg" width="480"/>
+      <media:description>In this talk Peter introduced XProf, an open-source visual profiler for Elixir, a new addition in the spectrum between complex monitoring software and clever, command-line tracing and debugging tools.
+
+XProf was originally created to help solve performance problems of live, highly concurrent and utilised back-end systems. However over time it has turned out to be useful for general ad hoc debugging, as it is capable of both intuitive visual feedback on bigger patterns and provide details if necessary.
+
+During the talk Peter demystifed tracing and match-specs, an extremely powerful toolset provided by the Erlang VM, and shows how XProf makes it more accessible and easier to use for everyone.</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="11" max="5" min="1"/>
+        <media:statistics views="464"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:cKfme8i_nO0</id>
+    <yt:videoId>cKfme8i_nO0</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>How We Created Elixir University Course  - Nikolay Tsvetinov - Elixir.LDN 2017</title>
+    <link href="https://www.youtube.com/watch?v=cKfme8i_nO0" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-08-30T13:21:10+00:00</published>
+    <updated>2017-09-11T10:40:03+00:00</updated>
+    <media:group>
+      <media:title>How We Created Elixir University Course  - Nikolay Tsvetinov - Elixir.LDN 2017</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/cKfme8i_nO0?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i4.ytimg.com/vi/cKfme8i_nO0/hqdefault.jpg" width="480"/>
+      <media:description>Nikolay gave the story of the Sofia University Elixir course. How the idea came to him, how he and his partners from elixir-lang.bg created it, how they attracted students (it is an elective course). It also discusses what they talked about, ideas on how to create exams and mark work, the sources used and what were the hardest things for them to achieve.</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="10" max="5" min="1"/>
+        <media:statistics views="473"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:csHiS8QefJg</id>
+    <yt:videoId>csHiS8QefJg</yt:videoId>
+    <yt:channelId>UCKrD_GYN3iDpG_uMmADPzJQ</yt:channelId>
+    <title>David Turner Talks About Code Mesh</title>
+    <link href="https://www.youtube.com/watch?v=csHiS8QefJg" rel="alternate"/>
+    <author>
+      <name>Erlang Solutions</name>
+      <uri>https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ</uri>
+    </author>
+    <published>2017-08-30T13:20:19+00:00</published>
+    <updated>2017-08-30T16:16:40+00:00</updated>
+    <media:group>
+      <media:title>David Turner Talks About Code Mesh</media:title>
+      <media:content height="390" type="application/x-shockwave-flash" url="https://www.youtube.com/v/csHiS8QefJg?version=3" width="640"/>
+      <media:thumbnail height="360" url="https://i4.ytimg.com/vi/csHiS8QefJg/hqdefault.jpg" width="480"/>
+      <media:description>David Turner talks to Brian Troutwine about Code Mesh, filmed at last year's conference. You can view the line-up for Code Mesh 2017 on the website here: http://www.codemesh.io/#speakers</media:description>
+      <media:community>
+        <media:starRating average="5.00" count="3" max="5" min="1"/>
+        <media:statistics views="157"/>
+      </media:community>
+    </media:group>
+  </entry>
+</feed>

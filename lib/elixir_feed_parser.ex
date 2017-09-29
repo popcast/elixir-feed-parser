@@ -6,6 +6,7 @@ defmodule ElixirFeedParser do
   alias ElixirFeedParser.Parsers.ITunesRSS2
   alias ElixirFeedParser.Parsers.FeedburnerAtom
   alias ElixirFeedParser.Parsers.FeedburnerRSS2
+  alias ElixirFeedParser.Parsers.YoutubeAtom
 
   def parse(xml_string) do
     with {:ok, xml}         <- XmlNode.parse_string(xml_string),
@@ -19,6 +20,7 @@ defmodule ElixirFeedParser do
       ITunesRSS2.can_parse?(xml)     -> {:ok, ITunesRSS2, xml}
       FeedburnerAtom.can_parse?(xml) -> {:ok, FeedburnerAtom, xml}
       FeedburnerRSS2.can_parse?(xml) -> {:ok, FeedburnerRSS2, xml}
+      YoutubeAtom.can_parse?(xml)    -> {:ok, YoutubeAtom, xml}
       Atom.can_parse?(xml)           -> {:ok, Atom, xml}
       RSS2.can_parse?(xml)           -> {:ok, RSS2, xml}
       true -> {:error, :feed_format_unknown}
