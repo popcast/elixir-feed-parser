@@ -43,7 +43,7 @@ defmodule ElixirFeedParser.XmlNode do
   defp extract_text(nil), do: nil
   defp extract_text([]), do: nil
   defp extract_text({:xmlText, _parents, _pos, _language, value, _type}) do
-    List.to_string(value)
+    List.to_string(value) |> String.trim
   end
   defp extract_text([head | tail]) do
     "#{extract_text(head)}#{extract_text(tail)}"

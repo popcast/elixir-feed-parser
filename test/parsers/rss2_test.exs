@@ -11,7 +11,9 @@ defmodule ElixirFeedParser.Test.RSS2Test do
     example2 = with {:ok, xml} <- XmlNode.parse_string(example2_file), do: RSS2.parse(xml)
     example3_file = File.read!("test/fixtures/rss2/complex_heise_de.xml")
     example3 = with {:ok, xml} <- XmlNode.parse_string(example3_file), do: RSS2.parse(xml)
-    {:ok, [example1: example1, example2: example2, example3: example3]}
+    example4_file = File.read!("test/fixtures/rss2/nytimes.xml")
+    example4 = with {:ok, xml} <- XmlNode.parse_string(example4_file), do: RSS2.parse(xml)
+    {:ok, [example1: example1, example2: example2, example3: example3, example4: example4]}
   end
 
   test "can_parse?" do
@@ -39,6 +41,10 @@ defmodule ElixirFeedParser.Test.RSS2Test do
 
   test "parse updated", %{example1: feed} do
     assert feed.updated == %DateTime{day: 20, hour: 12, minute: 30, month: 10, second: 0, microsecond: {0,0}, year: 2015, time_zone: "Etc/GMT+0", zone_abbr: "GMT", utc_offset: 0, std_offset: 0}
+  end
+
+  test "parse lastBuildDate that has additional whitespace", %{example4: feed} do
+    assert feed[:"rss2:lastBuildDate"] == %DateTime{day: 4, hour: 15, minute: 42, month: 10, second: 8, microsecond: {0,0}, year: 2017, time_zone: "GMT", zone_abbr: "GMT", utc_offset: 0, std_offset: 0}
   end
 
   test "parse link as atom:link", %{example2: feed} do

@@ -1,0 +1,847 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Movies</title>
+    <link>https://www.nytimes.com/section/movies?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Movies.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 04 Oct 2017 15:42:08 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Movies</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/movies?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Review: &#x2018;Blade Runner 2049&#x2019; Tries to Honor the Original and to Slip Free of It</title>
+      <link>https://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/06/arts/06bladerunner1/06bladerunner1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ryan Gosling stars in &#x201C;Blade Runner 2049,&#x201D; directed by Denis Villeneuve.</media:description>
+      <media:credit>Stephen Vaughan/Warner Bros. </media:credit>
+      <description>Denis Villeneuve dares a sequel to Ridley Scott&#x2019;s dystopian classic from 1982.</description>
+      <dc:creator>A. O. SCOTT</dc:creator>
+      <pubDate>Tue, 03 Oct 2017 16:14:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Blade Runner 2049 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Villeneuve, Denis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gosling, Ryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Harrison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fancher, Hampton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deakins, Roger</category>
+    </item>
+    <item>
+      <title>Can Hollywood Movies About Climate Change Make a Difference?</title>
+      <link>https://www.nytimes.com/2017/10/02/movies/mother-darren-aronofsky-climate-change.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/02/movies/mother-darren-aronofsky-climate-change.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/02/movies/mother-darren-aronofsky-climate-change.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/27/arts/27MOTHER-MESSAGE1/27MOTHER-MESSAGE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jennifer Lawrence in &#x201C;Mother!&#x201D;</media:description>
+      <media:credit>Paramount Pictures</media:credit>
+      <description>To galvanize audiences: Don&#x2019;t use apocalyptic plots. But a dose of humor? That might help.</description>
+      <dc:creator>MELENA RYZIK</dc:creator>
+      <pubDate>Mon, 02 Oct 2017 17:15:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mother! (Movie)</category>
+    </item>
+    <item>
+      <title>Wonders in a Grim World: The New York Film Festival&#x2019;s Best Trick</title>
+      <link>https://www.nytimes.com/2017/10/03/movies/wonders-in-a-grim-world-the-new-york-film-festivals-best-trick.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/03/movies/wonders-in-a-grim-world-the-new-york-film-festivals-best-trick.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/03/movies/wonders-in-a-grim-world-the-new-york-film-festivals-best-trick.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/04/arts/04NYFF-NOTEBOOK2/04NYFF-NOTEBOOK2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jason Mitchell, left, and Garrett Hedlund in the Dee Rees drama &#x201C;Mudbound.&#x201D;</media:description>
+      <media:credit>Steve Dietl, via Sundance Institute</media:credit>
+      <description>New movies from Todd Haynes, Woody Allen, Claire Denis and Dee Rees are among the highlights of the festival&#x2019;s second half.</description>
+      <dc:creator>A.O. SCOTT</dc:creator>
+      <pubDate>Wed, 04 Oct 2017 01:05:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York Film Festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ismael's Ghosts (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lady Bird (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Let the Sun Shine In (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lover for a Day (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mudbound (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">On the Beach at Night Alone (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Day After (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Other Side of Hope (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Rider (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wonder Wheel (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wonderstruck (Book)</category>
+    </item>
+    <item>
+      <title>Roman Polanski Accused of Rape by Former German Actress</title>
+      <link>https://www.nytimes.com/2017/10/03/movies/roman-polanski-rape-accusation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/03/movies/roman-polanski-rape-accusation.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/03/movies/roman-polanski-rape-accusation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/04/arts/04POLANSKI/03POLANSKI-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Renate Langer in Munich.</media:description>
+      <media:credit>Louisa Marie Summer for The New York Times</media:credit>
+      <description>The former German actress, Renate Langer, said she was raped at 15 in a house in Switzerland where she had gone in hopes of getting a part in a film.</description>
+      <dc:creator>SOPHIE HAIGNEY</dc:creator>
+      <pubDate>Tue, 03 Oct 2017 15:21:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polanski, Roman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Statutes of Limitations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Geimer, Samantha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Langer, Renate</category>
+    </item>
+    <item>
+      <title>Review: Robert Redford and Jane Fonda Are Neighbors With Benefits in &#x2018;Our Souls at Night&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/27/movies/our-souls-at-night-review-robert-redford-jane-fonda.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/movies/our-souls-at-night-review-robert-redford-jane-fonda.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/movies/our-souls-at-night-review-robert-redford-jane-fonda.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/arts/29oursouls1/29oursouls1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jane Fonda and Robert Redford in &#x201C;Our Souls at Night,&#x201D; directed by Ritesh Batra.</media:description>
+      <media:credit>Kerry Brown/Netflix</media:credit>
+      <description>This small-town romance was adapted from the novel by Kent Haruf.</description>
+      <dc:creator>A. O. SCOTT</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 13:35:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Our Souls at Night (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Batra, Ritesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fonda, Jane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redford, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neustadter, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weber, Michael H</category>
+    </item>
+    <item>
+      <title>Audrey Hepburn Shines at Auction, but Celebrity Sales Are Changing</title>
+      <link>https://www.nytimes.com/2017/09/29/arts/audrey-hepburn-vivien-leigh-auction.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/arts/audrey-hepburn-vivien-leigh-auction.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/arts/03REYBURN-INYT1/03REYBURN-INYT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Vivien Leigh stardust inspired a succession of high prices at Sotheby&#x2019;s on Tuesday.</media:description>
+      <media:credit>Sotheby&#x2019;s</media:credit>
+      <description>The actress&#x2019;s &#x201C;Breakfast at Tiffany&#x2019;s&#x201D; script fetched a hefty price at a marathon auction, but whether today&#x2019;s celebrities will ever have the same draw remains to be seen.</description>
+      <dc:creator>SCOTT REYBURN</dc:creator>
+      <pubDate>Sat, 30 Sep 2017 21:54:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Memorabilia and Souvenirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Christie's</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sotheby's</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Julien's Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hepburn, Audrey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leigh, Vivien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Saatchi Gallery</category>
+    </item>
+    <item>
+      <title>Review: &#x2018;American Made&#x2019; Has Tom Cruise. And Lies, Spies and Coke.</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/arts/29AMERICANMADE1/29AMERICANMADE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tom Cruise as the real-life smuggler Barry Seal in &#x201C;American Made.&#x201D;</media:description>
+      <media:credit>David James/Universal Pictures</media:credit>
+      <description>Mr. Cruise plays a real-life pilot turned smuggler who worked for the C.I.A., in Doug Liman&#x2019;s new movie.</description>
+      <dc:creator>MANOHLA DARGIS</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 22:05:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">American Made (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liman, Arthur L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruise, Tom</category>
+    </item>
+    <item>
+      <title>Anatomy of a Scene | &#x2018;Blade Runner 2049&#x2019;</title>
+      <link>https://www.nytimes.com/video/movies/100000005473503/anatomy-of-a-scene-blade-runner-2049.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/movies/100000005473503/anatomy-of-a-scene-blade-runner-2049.html</guid>
+      <description>Denis Villeneuve narrates a sequence from his film featuring Ryan Gosling.</description>
+      <dc:creator/>
+      <pubDate>Mon, 02 Oct 2017 19:22:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_ttl">Blade Runner 2049 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Villeneuve, Denis</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Gosling, Ryan</category>
+    </item>
+    <item>
+      <title>Review: In &#x2018;Mark Felt,&#x2019; Liam Neeson Is the Man Known as Deep Throat</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/mark-felt-the-man-who-brought-down-the-white-house-review-liam-neeson.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/mark-felt-the-man-who-brought-down-the-white-house-review-liam-neeson.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/mark-felt-the-man-who-brought-down-the-white-house-review-liam-neeson.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/arts/29markfelt/29markfelt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Liam Neeson as Mark Felt, the F.B.I. figure who was instrumental in helping to unravel Watergate.</media:description>
+      <media:credit>Bob Mahoney/Sony Pictures Classics</media:credit>
+      <description>Peter Landesman&#x2019;s accidentally timely Watergate procedural has men in suits fighting for the independence of the F.B.I.</description>
+      <dc:creator>A. O. SCOTT</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 21:52:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mark Felt: The Man Who Brought Down the White House (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landesman, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neeson, Liam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lane, Diane</category>
+    </item>
+    <item>
+      <title>New Trailer: &#x2018;Wonder Wheel&#x2019; From Woody Allen</title>
+      <link>https://www.nytimes.com/2017/10/04/movies/woody-allen-trailer-wonder-wheel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/04/movies/woody-allen-trailer-wonder-wheel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/04/movies/woody-allen-trailer-wonder-wheel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/04/arts/wonder-wheel1/wonder-wheel1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Justin Timberlake in the new Woody Allen film &#x201C;Wonder Wheel.&#x201D;</media:description>
+      <media:credit>Jessica Miglio/Amazon Studios</media:credit>
+      <description>Set on Coney Island, the drama, with Juno Temple, Kate Winslet and Justin Timberlake, appears to be his most New York-centric film in years.</description>
+      <dc:creator>BRUCE FRETTS</dc:creator>
+      <pubDate>Wed, 04 Oct 2017 15:15:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, Woody</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winslet, Kate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Timberlake, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Temple, Juno</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wonder Wheel (Movie)</category>
+    </item>
+    <item>
+      <title>Neighborhood Joint: A Backyard Film Festival in Astoria, Queens</title>
+      <link>https://www.nytimes.com/2017/10/04/nyregion/a-backyard-film-festival-in-astoria-queens.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/04/nyregion/a-backyard-film-festival-in-astoria-queens.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/04/nyregion/a-backyard-film-festival-in-astoria-queens.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/08/nyregion/08joint1/08joint1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A recent screening of &#x201C;Who Framed Roger Rabbit&#x201D; at the home of Frank Zagottis, the organizer of the Newtown Road Backyard Film Festival in Astoria, Queens.</media:description>
+      <media:credit>Gareth Smit for The New York Times</media:credit>
+      <description>For 11 years, a passionate film buff has been inviting neighbors to watch movie classics on a piece of large fabric that hangs behind his house.</description>
+      <dc:creator>JOHN SURICO</dc:creator>
+      <pubDate>Wed, 04 Oct 2017 11:00:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astoria (Queens, NY)</category>
+    </item>
+    <item>
+      <title>Feature: A Former Superagent Bets Big on a More Diverse Hollywood</title>
+      <link>https://www.nytimes.com/2017/10/04/magazine/charles-king-superagent-diverse-hollywood.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/04/magazine/charles-king-superagent-diverse-hollywood.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/04/magazine/charles-king-superagent-diverse-hollywood.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/08/magazine/08king/08king-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Charles D. King</media:description>
+      <media:credit>Awol Erizku for The New York Times</media:credit>
+      <description>After years as the industry&#x2019;s top African-American talent agent, Charles D. King is building an audacious new production company &#x2014; with a vision for bringing long-neglected stories to the screen.</description>
+      <dc:creator>CALVIN BAKER</dc:creator>
+      <pubDate>Wed, 04 Oct 2017 09:00:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Morris, William, Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jobs, Laurene Powell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rees, Dee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, Denzel</category>
+    </item>
+    <item>
+      <title>With... Idris Elba: Able Was I Ere I Saw Elba! Actor Opines on Sex, Race, Bond</title>
+      <link>https://www.nytimes.com/2017/10/04/style/idris-elba-interview.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/04/style/idris-elba-interview.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/04/style/idris-elba-interview.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/05/fashion/05IDRIS1/05IDRIS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Idris Elba at the Mandarin Oriental hotel in New York.</media:description>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <description>He does not look away at his phone, the waitress, his publicists or his steak salad. His expressive brown eyes are always on you. Or in this case, me.</description>
+      <dc:creator>MAUREEN DOWD</dc:creator>
+      <pubDate>Wed, 04 Oct 2017 04:00:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elba, Idris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Mountain Between Us (Movie)</category>
+    </item>
+    <item>
+      <title>Review: &#x2018;Chavela&#x2019; Recalls the Life of the Ranchera Singer Chavela Vargas</title>
+      <link>https://www.nytimes.com/2017/10/03/movies/chavela-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/03/movies/chavela-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/03/movies/chavela-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/02/movies/CHAVELA1/CHAVELA1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chavela Vargas in the documentary &#x201C;Chavela,&#x201D; whose centerpiece is footage of Ms. Vargas speaking for herself, in material shot in 1991.</media:description>
+      <media:credit>Alicia Perez &#x2014; Duarte/Music Box Films</media:credit>
+      <description>The documentary about the singer Chavela Vargas provides a biography, but doesn&#x2019;t give a strong sense of the musician&#x2019;s power.</description>
+      <dc:creator>BEN KENIGSBERG</dc:creator>
+      <pubDate>Tue, 03 Oct 2017 17:08:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vargas, Chavela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Chavela (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gund, Catherine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kyi, Daresha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Ranchera</category>
+    </item>
+    <item>
+      <title>Feature: Frances McDormand&#x2019;s Difficult Women</title>
+      <link>https://www.nytimes.com/2017/10/03/magazine/frances-mcdormand-difficult-women-career-surge.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/03/magazine/frances-mcdormand-difficult-women-career-surge.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/03/magazine/frances-mcdormand-difficult-women-career-surge.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/08/magazine/08cover/08cover-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Katy Grannan for The New York Times</media:credit>
+      <description>The actor has built a career, and a passionate fan base, playing supporting roles; now, at 60, she has become an unconventional star.</description>
+      <dc:creator>JORDAN KISNER</dc:creator>
+      <pubDate>Tue, 03 Oct 2017 09:05:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Menopause</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wooster Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coen, Joel</category>
+    </item>
+    <item>
+      <title>Denis Villeneuve Narrates a Scene From &#x2018;Blade Runner 2049&#x2019;</title>
+      <link>https://www.nytimes.com/2017/10/02/movies/denis-villeneuve-interview-blade-runner-2049.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/02/movies/denis-villeneuve-interview-blade-runner-2049.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/02/movies/denis-villeneuve-interview-blade-runner-2049.html?partner=rss&amp;emc=rss"/>
+      <description>The director discusses a sequence featuring Ryan Gosling.</description>
+      <dc:creator>MEKADO MURPHY</dc:creator>
+      <pubDate>Mon, 02 Oct 2017 19:23:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Blade Runner 2049 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Villeneuve, Denis</category>
+    </item>
+    <item>
+      <title>Tom Cruise&#x2019;s &#x2018;American Made&#x2019; Plays Second Fiddle to &#x2018;It&#x2019;</title>
+      <link>https://www.nytimes.com/2017/10/01/movies/tom-cruise-american-made-it-box-office.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/01/movies/tom-cruise-american-made-it-box-office.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/01/movies/tom-cruise-american-made-it-box-office.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/02/arts/02box1/02box1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tom Cruise plays a drug runner in &#x201C;American Made,&#x201D; which cost roughly $55 million to make.</media:description>
+      <media:credit>David James/Universal Pictures, via Associated Press</media:credit>
+      <description>&#x201C;American Made&#x201D; gave Mr. Cruise one of the lowest opening-weekend box office results of his career. Its backers hope for strong interest in the weeks ahead.</description>
+      <dc:creator>BROOKS BARNES</dc:creator>
+      <pubDate>Sun, 01 Oct 2017 17:34:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruise, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">American Made (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cross Creek Pictures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liman, Doug</category>
+    </item>
+    <item>
+      <title>Production of a Lifetime: Whitney Houston and Clive Davis</title>
+      <link>https://www.nytimes.com/2017/09/30/style/whitney-houston-clive-davis-sexuality.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/30/style/whitney-houston-clive-davis-sexuality.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/30/style/whitney-houston-clive-davis-sexuality.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/01/fashion/01WHITNEY/01WHITNEY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Clive Davis and Whitney Houston signing her contract with Arista Records, April 10, 1983.</media:description>
+      <media:credit>Ebet Roberts/Redferns</media:credit>
+      <description>The singer and the hit maker were entangled for three decades. He wanted chart-topping songs. But what did she want?</description>
+      <dc:creator>JACOB BERNSTEIN</dc:creator>
+      <pubDate>Sat, 30 Sep 2017 20:35:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Clive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Houston, Whitney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pop and Rock Music</category>
+    </item>
+    <item>
+      <title>The &#x2018;Hustler&#x2019; vs. the Feminist Champion: Inside the &#x2018;Battle of the Sexes&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/29/movies/battle-of-sexes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/movies/battle-of-sexes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/movies/battle-of-sexes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/30/us/30xp-battle/30xp-battle-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Billie Jean King and Bobby Riggs in New York in July 1973.</media:description>
+      <media:credit>Anthony Camerano/Associated Press</media:credit>
+      <description>The hype leading up to the tennis match between Billie Jean King and Bobby Riggs on Sept. 20, 1973, was over the top. Here&#x2019;s a look at the coverage.</description>
+      <dc:creator>JACEY FORTIN</dc:creator>
+      <pubDate>Sat, 30 Sep 2017 03:21:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Billie Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riggs, Bobby</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Movies</category>
+    </item>
+    <item>
+      <title>New Trailer: &#x2018;Annihilation&#x2019; Puts Natalie Portman in Danger</title>
+      <link>https://www.nytimes.com/2017/09/29/arts/new-trailer-annihilation-puts-natalie-portman-in-danger.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/arts/new-trailer-annihilation-puts-natalie-portman-in-danger.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/arts/new-trailer-annihilation-puts-natalie-portman-in-danger.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/30/movies/30-annihilation1/30-annihilation1-moth.png" medium="image" height="151" width="151"/>
+      <media:description>Natalie Portman in a scene from the trailer for &#x201C;Annihilation.&#x201D;</media:description>
+      <media:credit/>
+      <description>The creepy sci-fi drama, based on a best-selling novel, is from Alex Garland, the director of &#x201C;Ex Machina.&#x201D;</description>
+      <dc:creator>BRUCE FRETTS</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 20:25:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garland, Alex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Annihilation (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Portman, Natalie</category>
+    </item>
+    <item>
+      <title>Review: Why the New &#x2018;Flatliners&#x2019; Is Just &#x2018;Meh&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/29/movies/flatliners-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/movies/flatliners-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/movies/flatliners-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/30/arts/30FLATLINERS1/30FLATLINERS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ellen Page and James Norton in &#x201C;Flatliners.&#x201D;</media:description>
+      <media:credit>Columbia Pictures, Sony Entertainment</media:credit>
+      <description>The original starred Julia Roberts, Kiefer Sutherland and Kevin Bacon, among others. The new one has Ellen Page and some horror movie tricks.</description>
+      <dc:creator>GLENN KENNY</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 20:18:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Flatliners (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Ellen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oplev, Niels Arden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sutherland, Kiefer</category>
+    </item>
+    <item>
+      <title>New Book About Woody Allen Alleges Abusive Parenting by Mia Farrow</title>
+      <link>https://www.nytimes.com/2017/09/29/movies/mia-farrow-woody-allen-abuse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/movies/mia-farrow-woody-allen-abuse.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/movies/mia-farrow-woody-allen-abuse.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/06/arts/30FARROW1/30FARROW1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mia Farrow this year.</media:description>
+      <media:credit>Angela Weiss/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In the book, Moses Farrow asserts that Ms. Farrow coached her daughter, Dylan Farrow, in accusing Mr. Allen of sexual abuse.</description>
+      <dc:creator>SOPAN DEB</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 17:47:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Start to Finish: Woody Allen and the Art of Moviemaking (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lax, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, Woody</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farrow, Mia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farrow, Malone (Dylan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farrow, Moses</category>
+    </item>
+    <item>
+      <title>On DVD: &#x2018;Othello&#x2019;: Shakespeare&#x2019;s Tragedy Was Orson Welles&#x2019;s Triumph</title>
+      <link>https://www.nytimes.com/2017/09/29/movies/othello-orson-welles.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/movies/othello-orson-welles.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/movies/othello-orson-welles.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/24/arts/24HOBERMAN1/24HOBERMAN1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Orson Welles in the title role in his &#x201C;Othello.&#x201D;</media:description>
+      <media:credit>The Criterion Collection</media:credit>
+      <description>The director pieced together his masterpiece &#x201C;Othello&#x201D; over several years and continents, and then revisited it two decades later in a documentary about its making.</description>
+      <dc:creator>J. HOBERMAN</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 16:41:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Welles, Orson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Othello (Movie)</category>
+    </item>
+    <item>
+      <title>Director Behind &#x2018;American Masters&#x2019; Tries Something New With &#x2018;Spielberg&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/29/arts/television/susan-lacy-steven-spielberg-hbo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/arts/television/susan-lacy-steven-spielberg-hbo.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/arts/television/susan-lacy-steven-spielberg-hbo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/01/arts/01LACY4/01LACY4-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>From left, Paul Simon, Susan Lacy and Susan Steinberg in 1992 for the &#x201C;American Masters&#x201D; documentary &#x201C;Paul Simon: Born at the Right Time.&#x201D;</media:description>
+      <media:credit>Lawrence Ivy/WNET</media:credit>
+      <description>Susan Lacy, who pioneered the biographical documentary at PBS with &#x201C;American Masters,&#x2019;&#x2019; is rolling out a film about Steven Spielberg for HBO.</description>
+      <dc:creator>MIKE HALE</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 14:00:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacy, Susan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">American Masters (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spielberg, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Home Box Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York Film Festival</category>
+    </item>
+    <item>
+      <title>Streaming: FandangoNow Bridges the Theatrical Experience and Streaming</title>
+      <link>https://www.nytimes.com/2017/09/29/movies/fandangonow-streaming.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/movies/fandangonow-streaming.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/movies/fandangonow-streaming.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/01/arts/01STREAMING/01STREAMING-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Taron Egerton in the new movie &#x201C;Kingsman: The Golden Circle.&#x201D; The streaming site FandangoNow is offering the original Kingsman film for a discounted price.</media:description>
+      <media:credit>Giles Keyte/20th Century Fox</media:credit>
+      <description>Going to the movies with Fandango and getting the movies at home with FandangoNow.</description>
+      <dc:creator>GLENN KENNY</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 14:00:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">FandangoNow</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fandango</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Comcast Corporation</category>
+    </item>
+    <item>
+      <title>Your Week in Culture: Katy Perry, Agn&#xE8;s Varda, the Guggenheim&#x2019;s Chinese Art (Minus the Animals)</title>
+      <link>https://www.nytimes.com/2017/09/29/arts/katy-perry-the-gifted-agnes-varda.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/29/arts/katy-perry-the-gifted-agnes-varda.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/29/arts/katy-perry-the-gifted-agnes-varda.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/01/arts/01pop-week/01pop-week-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Katy Perry will be performing at Madison Square Garden on Oct. 2 and 6.</media:description>
+      <media:credit>Jody Rogac for The New York Times</media:credit>
+      <description>Also the week of Oct. 1: Dave Malloy returns downtown, and &#x201C;The Gifted&#x201D; debuts on Fox.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Mon, 02 Oct 2017 17:46:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">New York Film Festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fox Broadcasting Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bill T Jones/Arnie Zane Dance Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Guggenheim, Solomon R, Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Montclair State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Theater Workshop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fure, Ashley (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">JR</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Bill T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malloy, Dave</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perry, Katy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Varda, Agnes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>Julie Taymor to Direct Gloria Steinem Biopic</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/julie-taymor-to-direct-gloria-steinem-biopic.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/julie-taymor-to-direct-gloria-steinem-biopic.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/julie-taymor-to-direct-gloria-steinem-biopic.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/movies/29steinem/29steinem-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gloria Steinem, whose memoir will be the basis of a new Hollywood movie directed by Julie Taymor.</media:description>
+      <media:credit>Caitlin Ochs for The New York Times</media:credit>
+      <description>Ms. Taymor will direct a film about the feminist icon Gloria Steinem&#x2019;s formative years, written by Sarah Ruhl.</description>
+      <dc:creator>SOPAN DEB</dc:creator>
+      <pubDate>Fri, 29 Sep 2017 00:59:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinem, Gloria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taymor, Julie</category>
+    </item>
+    <item>
+      <title>Film Series in NYC This Week</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/film-series-in-nyc-this-week.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/film-series-in-nyc-this-week.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/film-series-in-nyc-this-week.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/arts/29listingsmovies/29listingsmovies-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Robert Mitchum and Jane Russell in &#x201C;His Kind of Woman,&#x201D; which is screening as part of the New York Film Festival&#x2019;s Mitchum retrospective. See listing below.</media:description>
+      <media:credit>RKO Pictures</media:credit>
+      <description>Our guide to film series and special screenings.</description>
+      <dc:creator>BEN KENIGSBERG</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 20:32:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>Anne Jeffreys, Glamorous Ghost of &#x2019;50s TV, Is Dead at 94</title>
+      <link>https://www.nytimes.com/2017/09/28/obituaries/anne-jeffreys-glamorous-ghost-of-50s-tv-is-dead-at-94.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/obituaries/anne-jeffreys-glamorous-ghost-of-50s-tv-is-dead-at-94.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/obituaries/anne-jeffreys-glamorous-ghost-of-50s-tv-is-dead-at-94.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/obituaries/29jeffreys4/29jeffreys4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Anne Jeffreys as a mischievous ghost and Leo G. Carroll as a stodgy banker in the 1950s CBS sitcom &#x201C;Topper.&#x201D;</media:description>
+      <media:credit>CBS, via Photofest</media:credit>
+      <description>Ms. Jeffreys, who had a long career in film, on television and on Broadway, was best known for playing the otherworldly Marion Kerby on &#x201C;Topper.&#x201D;</description>
+      <dc:creator>ANITA GATES</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 20:48:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffreys, Anne (1923-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Topper (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+    </item>
+    <item>
+      <title>David Gordon Green Narrates a Scene From &#x2018;Stronger&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/stronger-david-gordon-greeen-interview-jake-gyllenhaal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/stronger-david-gordon-greeen-interview-jake-gyllenhaal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/stronger-david-gordon-greeen-interview-jake-gyllenhaal.html?partner=rss&amp;emc=rss"/>
+      <description>The director discusses a sequence featuring Jake Gyllenhaal and Tatiana Maslany.</description>
+      <dc:creator>MEKADO MURPHY</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 19:33:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, David Gordon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gyllenhaal, Jake</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maslany, Tatiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bauman, Jeff Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Stronger (Movie)</category>
+    </item>
+    <item>
+      <title>Anatomy of a Scene | &#x2018;Stronger&#x2019;</title>
+      <link>https://www.nytimes.com/video/movies/100000005466183/anatomy-of-a-scene-stronger.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/movies/100000005466183/anatomy-of-a-scene-stronger.html</guid>
+      <description>David Gordon Green narrates a sequence from the film featuring Jake Gyllenhaal as Jeff Bauman.</description>
+      <dc:creator/>
+      <pubDate>Thu, 28 Sep 2017 19:30:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_ttl">Stronger (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Green, David Gordon</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Gyllenhaal, Jake</category>
+    </item>
+    <item>
+      <title>The &#x2018;Blade Runner 2049&#x2019; Look: Sci-Fi Brought Back Down to Earth</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/the-blade-runner-2049-look-sci-fi-brought-back-down-to-earth.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/the-blade-runner-2049-look-sci-fi-brought-back-down-to-earth.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/the-blade-runner-2049-look-sci-fi-brought-back-down-to-earth.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/01/arts/01blade-runner-costumesCOMBO/01blade-runner-costumesCOMBO-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ryan Gosling in &#x201C;Blade Runner 2049&#x201D; and the sketch for his character&#x2019;s jacket, meant to reflect the raincoat Harrison Ford wore in the first film.</media:description>
+      <media:credit>Stephen Vaughan/Warner Bros.; Sam Hudecki/Alcon Entertainment and Warner Bros. </media:credit>
+      <description>The costume designer Ren&#xE9;e April explains the thinking that went into the sequel &#x2014; masks and collars that hide faces and sleeves that hide hands.</description>
+      <dc:creator>RACHEL LEE HARRIS</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 14:00:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Blade Runner 2049 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">April, Renee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
+    </item>
+    <item>
+      <title>A Cher Musical Is Broadway-Bound</title>
+      <link>https://www.nytimes.com/2017/09/28/theater/a-cher-musical-is-broadway-bound.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/theater/a-cher-musical-is-broadway-bound.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/theater/a-cher-musical-is-broadway-bound.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/27/arts/29cher2/29cher2-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Cher in 2014. She will be depicted on Broadway in &#x201C;The Cher Show,&#x201D; a new musical.</media:description>
+      <media:credit>Harry Scull Jr./The Buffalo News, via Associated Press</media:credit>
+      <description>&#x201C;The Cher Show,&#x201D; a musical that uses her songs to tell her life story, will open first in Chicago.</description>
+      <dc:creator>MICHAEL PAULSON</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 19:26:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Cher Show (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cher (1946- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elice, Rick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Jason (1970- )</category>
+    </item>
+    <item>
+      <title>Review: In &#x2018;Realive,&#x2019; a Man Is Reanimated in 2084</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/realive-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/realive-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/realive-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/25/movies/REALIVE1/REALIVE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tom Hughes in &#x201C;Realive,&#x201D; about a man who freezes his body to escape terminal cancer.</media:description>
+      <media:credit>Syfy Films</media:credit>
+      <description>This above-average science-fiction film, written and directed by Mateo Gil, plays like a &#x201C;Black Mirror&#x201D; episode combined with a solemn love story.</description>
+      <dc:creator>KEN JAWOROWSKI</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Realive (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gil, Mateo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hughes, Tom (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Bon, Charlotte</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chaplin, Oona (1986- )</category>
+    </item>
+    <item>
+      <title>Review: In &#x2018;Different Flowers,&#x2019; a Runaway Bride Gets Help From Her Sister</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/different-flowers-review-emma-bell-morgan-dameron.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/different-flowers-review-emma-bell-morgan-dameron.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/different-flowers-review-emma-bell-morgan-dameron.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/04/arts/20differentflowers1/20differentflowers1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Emma Bell, left, and Hope Lauren in &#x201C;Different Flowers.&#x201D;</media:description>
+      <media:credit>Different Flowers</media:credit>
+      <description>The two siblings get on each other&#x2019;s nerves and in each other&#x2019;s business.</description>
+      <dc:creator>MONICA CASTILLO</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Different Flowers (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dameron, Morgan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bell, Emma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lauren, Hope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Long, Shelley</category>
+    </item>
+    <item>
+      <title>Review: A Violent Accident Rocks a Friendship in &#x2018;Super Dark Times&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/super-dark-times-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/super-dark-times-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/super-dark-times-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/arts/29superdark-web/29superdark-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kevin Phillips&#x2019;s debut feature, &#x201C;Super Dark Times,&#x201D; is set four years before the massacre at Columbine High School.</media:description>
+      <media:credit>Eli Born/The Orchard</media:credit>
+      <description>Kevin Phillips&#x2019;s direction and fine acting from the cast elevate this tale centered on two high schoolers coping with tragedy.</description>
+      <dc:creator>TEO BUGBEE</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 21:53:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Super Dark Times (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phillips, Kevin (Film Director)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Campbell, Owen (Actor)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tahan, Charlie (1998- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>Review: Winning Her Back on Deadline in &#x2018;Literally, Right Before Aaron&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/literally-right-before-aaron-review-justin-long.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/literally-right-before-aaron-review-justin-long.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/literally-right-before-aaron-review-justin-long.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/29/movies/29LITERALLY/merlin-to-scoop-127696322-418433-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Justin Long and Cobie Smulders in &#x201C;Literally, Right Before Aaron.&#x201D;</media:description>
+      <media:credit>Michael Moriatis/Screen Media Films</media:credit>
+      <description>In this disjointed rom-com, Justin Long plays a man invited to the wedding of his former paramour. He&#x2019;s not going easily.</description>
+      <dc:creator>ANDY WEBSTER</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Literally, Right Before Aaron (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Long, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smulders, Cobie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eggold, Ryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cho, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Delany, Dana</category>
+    </item>
+    <item>
+      <title>Review: Seeking Connection in a Busy Town in &#x2018;Autumn, Autumn&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/autumn-autumn-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/autumn-autumn-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/autumn-autumn-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/27/movies/AUTUMN1/AUTUMN1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lee Se-rang and Yang Heung-ju in &#x201C;Autumn, Autumn.&#x201D;</media:description>
+      <media:credit>M-Line Distribution</media:credit>
+      <description>This South Korean film follows lonely characters in a resort town.</description>
+      <dc:creator>JEANNETTE CATSOULIS</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Autumn, Autumn (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jang Woo-jin</category>
+    </item>
+    <item>
+      <title>Review: In &#x2018;The Untold Tales of Armistead Maupin,&#x2019; a Portrait of a Gifted Writer</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/the-untold-tales-of-armistead-maupin-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/the-untold-tales-of-armistead-maupin-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/the-untold-tales-of-armistead-maupin-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/27/movies/UNTOLD1/UNTOLD1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The writer Armistead Maupin is the subject of a documentary directed by Jennifer M. Kroot.</media:description>
+      <media:credit>The Film Collaborative</media:credit>
+      <description>The film, directed by Jennifer M. Kroot, illustrates how the novelist&#x2019;s gay experience informed his art.</description>
+      <dc:creator>ANDY WEBSTER</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maupin, Armistead</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Untold Tales of Armistead Maupin (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kroot, Jennifer M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Documentary Films and Programs</category>
+    </item>
+    <item>
+      <title>Review: &#x2018;Blood Stripe&#x2019; Finds a Woman Back From War, and Still Fighting</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/blood-stripe-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/blood-stripe-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/blood-stripe-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/25/movies/BLOODSTRIPE1/BLOODSTRIPE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kate Nowlin in &#x201C;Blood Stripe.&#x201D;</media:description>
+      <media:credit>Tandem Pictures</media:credit>
+      <description>A former Marine returns home and battles with post-traumatic stress in this film.</description>
+      <dc:creator>KEN JAWOROWSKI</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 14:19:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Blood Stripe (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nowlin, Kate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Auberjonois, Remy</category>
+    </item>
+    <item>
+      <title>Review: &#x2018;Let&#x2019;s Play Two&#x2019; Takes Pearl Jam Out to the Ball Game</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/lets-play-two-review-pearl-jam-eddie-vedder.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/lets-play-two-review-pearl-jam-eddie-vedder.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/lets-play-two-review-pearl-jam-eddie-vedder.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/26/movies/LETS1/LETS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eddie Vedder in &#x201C;Let&#x2019;s Play Two: Pearl Jam Live at Wrigley Field.&#x201D;</media:description>
+      <media:credit>Danny Clinch/Milkt Films, Polygram Entertainment</media:credit>
+      <description>Blending concert film and sports diary, Danny Clinch chronicles Pearl Jam&#x2019;s pair of shows at Wrigley Field during the Cubs&#x2019; championship season.</description>
+      <dc:creator>DANIEL M. GOLD</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 15:07:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Let's Play Two: Pearl Jam Live at Wrigley Field (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pearl Jam (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chicago Cubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wrigley Field (Chicago)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vedder, Eddie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinch, Danny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+    </item>
+    <item>
+      <title>Review: An Inheritance Is Threatened in &#x2018;Abundant Acreage Available&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/abundant-acreage-available-review-amy-ryan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/abundant-acreage-available-review-amy-ryan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/abundant-acreage-available-review-amy-ryan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/25/movies/ABUNDANT-1/ABUNDANT-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amy Ryan in &#x201C;Abundant Acreage Available.&#x201D;</media:description>
+      <media:credit>Diana Greene/Gravitas Ventures.</media:credit>
+      <description>Amy Ryan and Terry Kinney are siblings at the center of a land dispute in this film from Angus MacLachlan.</description>
+      <dc:creator>JEANNETTE CATSOULIS</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Abundant Acreage Available (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">MacLachlan, Angus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, Amy (1968- )</category>
+    </item>
+    <item>
+      <title>Review: A Cranky Loner Faces Mortality in &#x2018;Lucky&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/28/movies/lucky-review-harry-dean-stanton.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/28/movies/lucky-review-harry-dean-stanton.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/28/movies/lucky-review-harry-dean-stanton.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/26/movies/LUCKY1/LUCKY1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harry Dean Stanton in &#x201C;Lucky.&#x201D;</media:description>
+      <media:credit>Magnolia Pictures</media:credit>
+      <description>In one of his last roles, Harry Dean Stanton shines as a cantankerous old man.</description>
+      <dc:creator>JEANNETTE CATSOULIS</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 11:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lucky (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stanton, Harry Dean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynch, John Carroll</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>Jan Triska, Czech-American Actor Seen in &#x2018;Ragtime,&#x2019; Dies at 80</title>
+      <link>https://www.nytimes.com/2017/09/27/movies/jan-triska-czech-american-actor-seen-in-ragtime-dies-at-80.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/movies/jan-triska-czech-american-actor-seen-in-ragtime-dies-at-80.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/movies/jan-triska-czech-american-actor-seen-in-ragtime-dies-at-80.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/27/world/27ap-eu-czech-obit-triska/27ap-eu-czech-obit-triska-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jan Triska in 2012.</media:description>
+      <media:credit>Josef Horazny/Czech News Agency, via Associated Press</media:credit>
+      <description>Mr. Triska, who moved to the United States after he was banned by Czechoslovakia&#x2019;s Communist government, fell from a bridge in Prague on Saturday.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 21:07:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Triska, Jan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czechoslovakia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+    </item>
+    <item>
+      <title>The Record Bid for &#x2018;Breakfast at Tiffany&#x2019;s&#x2019; Script Is From Tiffany&#x2019;s</title>
+      <link>https://www.nytimes.com/2017/09/27/movies/the-record-bid-for-breakfast-at-tiffanys-script-is-from-tiffanys.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/movies/the-record-bid-for-breakfast-at-tiffanys-script-is-from-tiffanys.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/movies/the-record-bid-for-breakfast-at-tiffanys-script-is-from-tiffanys.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/movies/28tiffany1/28tiffany1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An autographed photo of Audrey Hepburn and George Peppard in &#x201C;Breakfast at Tiffany&#x2019;s,&#x201D; which was auctioned at Christie&#x2019;s in London.</media:description>
+      <media:credit>Christie's Images Ltd.</media:credit>
+      <description>Audrey Hepburn&#x2019;s 140-page typed script to the classic film brought the highest price for any film script at auction, Christie&#x2019;s said.</description>
+      <dc:creator>SCOTT REYBURN</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 21:31:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tiffany &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Christie's</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hepburn, Audrey</category>
+    </item>
+    <item>
+      <title>Viva: A Warhol-Era Superstar Wants the Last Word</title>
+      <link>https://www.nytimes.com/2017/09/27/fashion/viva-andy-warhol.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/fashion/viva-andy-warhol.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/fashion/viva-andy-warhol.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/fashion/28VIVA2/28VIVA2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Viva in Andy Warhol&#x2019;s 90-minute film &#x201C;San Diego Surf&#x201D; (1968/1996). &#x201C;The films were pretty boring,&#x201D; she said.</media:description>
+      <media:credit>The Andy Warhol Museum, Pittsburgh</media:credit>
+      <description>The artist&#x2019;s onetime muse and sidekick takes aim at her mentor, fake news and the F.B.I.</description>
+      <dc:creator>RUTH LA FERLA</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 15:21:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoffman, Viva (1938- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warhol, Andy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lonesome Cowboys (Movie)</category>
+    </item>
+    <item>
+      <title>Modern Love: Modern Love Podcast: Ali Fazal Reads &#x2018;When Your Greatest Romance Is a Friendship&#x2019;</title>
+      <link>https://www.nytimes.com/2017/09/27/style/modern-love-podcast-ali-fazal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/style/modern-love-podcast-ali-fazal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/style/modern-love-podcast-ali-fazal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/24/fashion/26modern/26modern-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Brian Rea</media:credit>
+      <description>On this week&#x2019;s podcast, the &#x201C;Victoria and Abdul&#x201D; actor reads an essay about a relationship that transcends age.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 16:16:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fazal, Ali (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+    </item>
+    <item>
+      <title>New York Film Festival Is a Feast for True Believers</title>
+      <link>https://www.nytimes.com/2017/09/27/movies/new-york-film-festival.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/movies/new-york-film-festival.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/movies/new-york-film-festival.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/arts/28NYFF1/28NYFF1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Agn&#xE8;s Varda and JR in &#x201C;Faces Places.&#x201D;</media:description>
+      <media:credit>Cohen Media Group</media:credit>
+      <description>The festival, at 55, retains a near-holy belief in cinema as art. Highlights: new work by Agn&#xE8;s Varda, Agnieszka Holland and Valeska Grisebach.</description>
+      <dc:creator>MANOHLA DARGIS</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 20:41:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York Film Festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Film Society of Lincoln Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guadagnino, Luca</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitchum, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Varda, Agnes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Call Me by Your Name (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Did You Wonder Who Fired the Gun? (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Faces Places (Movie)</category>
+    </item>
+  </channel>
+</rss>
