@@ -22,11 +22,15 @@ defmodule ElixirFeedParser.Parsers.Helper do
   def to_date_time(date_time_string, format) do
     case format do
       "ISO_8601" ->
-        {:ok, date_time, _} = DateTime.from_iso8601(date_time_string)
-        date_time
+        case DateTime.from_iso8601(date_time_string) do
+          {:ok, date_time, _} -> date_time
+          {:error, _}         -> nil
+        end
       "RFC_1123" ->
-        {:ok, date_time} = Timex.parse(date_time_string, "{RFC1123}")
-        date_time
+        case Timex.parse(date_time_string, "{RFC1123}") do
+          {:ok, date_time} -> date_time
+          {:error, _}      -> nil
+        end
     end
   end
 end
