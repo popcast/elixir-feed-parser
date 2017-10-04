@@ -8,7 +8,8 @@ defmodule ElixirFeedParserTest do
     example4 = File.read!("test/fixtures/rss2/itunes.xml")
     example5 = File.read!("test/fixtures/atom/PaulDixExplainsNothing.xml")
     example6 = File.read!("test/fixtures/rss2/TechCrunch.xml")
-    {:ok, [example1: example1, example2: example2, example3: example3, example4: example4, example5: example5, example6: example6]}
+    example7 = File.read!("test/fixtures/atom/YoutubeChannel.xml")
+    {:ok, [example1: example1, example2: example2, example3: example3, example4: example4, example5: example5, example6: example6, example7: example7]}
   end
 
   test "parsing an Atom file", %{example1: xml} do
@@ -39,6 +40,11 @@ defmodule ElixirFeedParserTest do
   test "parsing an Feedburner RSS2 file", %{example6: xml} do
     {:ok, result} = ElixirFeedParser.parse(xml)
     assert "TechCrunch" == result.title
+  end
+
+  test "parsing a Youtube Atom file", %{example7: xml} do
+    {:ok, result} = ElixirFeedParser.parse(xml)
+    assert "Erlang Solutions" == result.title
   end
 
   test "parsing an unknown xml string" do
